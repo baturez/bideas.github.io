@@ -1,0 +1,302 @@
+{
+    "data": [
+        {
+            "frontend": 0,
+            "backend": 1,
+            "mobile": 2,
+            "fullstack": 1,
+            "gamer": 2,
+            "zero": 0,
+            "lang": "Python",
+            "head": "Python nedir ?",
+            "left": {
+                "description": "Python, genel amaçlı, yüksek seviyeli bir programlama dilidir. Birçok alanda kullanılabilir ve çeşitli amaçlar için kullanışlıdır. İşte Python'un yaygın kullanım alanlarından bazıları:",
+                "lists": [
+                    "Yazılım Geliştirme: Python, geniş bir yazılım geliştirme ekosistemi sunar. Web uygulamaları, masaüstü uygulamaları, mobil uygulamalar, oyunlar, veri analizi araçları ve daha fazlası için kullanılabilir. Python, kullanıcı dostu bir sözdizimine ve zengin bir kütüphane koleksiyonuna sahiptir.",
+                    "Veri Analizi ve Veri Bilimi: Python, veri analizi ve veri bilimi için çok popüler bir dildir. Numpy, Pandas ve Matplotlib gibi güçlü kütüphaneler, veri manipülasyonu, veri analizi, istatistiksel hesaplamalar, görselleştirme ve makine öğrenmesi gibi işlemleri kolaylaştırır. Python, veri analizinde hızlı prototipleme yetenekleri ve geniş bir topluluk desteği sağlar.",
+                    "Yapay Zeka ve Makine Öğrenmesi: Python, yapay zeka, makine öğrenmesi ve derin öğrenme alanlarında da yaygın olarak kullanılır. TensorFlow, Keras, PyTorch ve Scikit-learn gibi kütüphaneler, bu alanda Python dilini destekler ve kullanımını kolaylaştırır.",
+                    "Otomasyon ve Scripting: Python, otomasyon ve scripting için ideal bir dil olarak kabul edilir. Dosya işlemleri, sistem yönetimi, veri dönüşümleri, ağ iletişimi ve benzeri görevleri otomatikleştirmek için kullanılabilir. Python'un basit ve okunabilir sözdizimi, hızlı geliştirme ve hata ayıklama imkanı sunar.",
+                    "Web Geliştirme: Python, web uygulamaları geliştirmek için de kullanılabilir. Django ve Flask gibi popüler web çerçeveleri, hızlı ve güvenli web uygulamaları oluşturmanızı sağlar. Python, veritabanı işlemleri, oturum yönetimi, güvenlik, API geliştirme ve diğer web geliştirme gereksinimlerini destekleyen zengin bir ekosisteme sahiptir."
+                ]
+            },
+            "right": {
+                "head": "Şimdi Python'ı tanıtan bir videoya göz gezdirelim",
+                "youtubeLink": "https://www.youtube.com/embed/cadjwJCwUks",
+                "altHead": "Şimdi de örnek bir Python kodunu inceleyelim",
+                "code": [
+                    "print('Hello, World!')",
+                    "a = 5",
+                    "b = 3",
+                    "c = a + b",
+                    "print(c)",
+                    "#çıktısı ==>",
+                    "Hello, World!",
+                    "8"
+                ]
+            }
+        },
+        {
+            "frontend": 0,
+            "backend": 0,
+            "mobile": 2,
+            "fullstack": 0,
+            "gamer": 1,
+            "zero": 0,
+            "lang": "Kotlin",
+            "head": "Kotlin nedir ?",
+            "left": {
+                "description": "Kotlin, JetBrains tarafından geliştirilen bir programlama dilidir. İlk olarak 2011 yılında duyurulan Kotlin, Java Virtual Machine (JVM), Android, JavaScript ve Native ortamlarında çalışabilme özelliğine sahip genel amaçlı bir dil olarak tasarlanmıştır. Kotlin, Java ile uyumlu bir dil olup, mevcut Java projelerine sorunsuz bir şekilde entegre edilebilir. Ayrıca Kotlin, birçok açıdan Java'dan daha modern ve geliştirici dostu özelliklere sahiptir. Bazı Kotlin özellikleri şunlardır:",
+                "lists": [
+                    "Basit ve okunabilir sözdizimi: Kotlin, daha az yazıyla daha fazlasını ifade edebilen basit bir sözdizisine sahiptir. Bu da kodun daha okunabilir ve anlaşılır olmasını sağlar.",
+                    "Null güvenliği: Kotlin, null referanslarından kaynaklanan hataları önlemek için dil seviyesinde null güvenliği sunar. Bu sayede NullPointerException gibi hataların önüne geçilebilir.",
+                    "Veri sınıfları (data classes): Kotlin, verileri saklamak ve işlemek için kolaylıkla kullanılabilen veri sınıfları sunar. Bu sınıfların otomatik olarak getter/setter metodları, equals(), hashCode() ve toString() gibi yöntemleri otomatik olarak oluşturulur.",
+                    "Fonksiyonel programlama özellikleri: Kotlin, fonksiyonel programlama için bazı özellikler sunar. Lambda ifadeleri, yüksek seviyeli fonksiyonlar ve işlevsel koleksiyon operasyonları gibi özellikler sayesinde daha işlevsel bir kod yazabilirsiniz.",
+                    "Android desteği: Kotlin, Android uygulama geliştirmek için resmi olarak desteklenen bir dil haline gelmiştir. Kotlin, Android uygulamalarını yazmak için kullanılabilecek güçlü bir seçenektir."
+                ]
+            },
+            "right": {
+                "head": "Şimdi Kotlin'i tanıtan bir videoya göz gezdirelim",
+                "youtubeLink": "https://www.youtube.com/embed/WGLsWn2iwRs",
+                "altHead": "Şimdi de örnek bir Kotlin kodunu inceleyelim",
+                "code": [
+                    "fun main() {",
+                    "println('Hello World')",
+                    "}",
+                    "#çıktısı ==>",
+                    "Hello World"
+                ]
+            }
+        },
+        {
+            "frontend": 2,
+            "backend": 1,
+            "mobile": 1,
+            "fullstack": 1,
+            "gamer": 1,
+            "zero": 0,
+            "lang": "JavaScript",
+            "head": "JavaScript nedir?",
+            "left": {
+                "description": "JavaScript, geliştiricilerin etkileşimli web sayfaları oluşturmak için kullandığı bir programlama dilidir. JavaScript işlevleri, sosyal medya akışlarını yenilemekten animasyonlar ve etkileşimli haritalar göstermeye kadar, bir web sitesi kullanıcısının deneyimini iyileştirebilir. İstemci tarafındaki bir betik dili olarak, World Wide Web'in temel teknolojilerinden biridir. Örneğin, internette gezinirken bir görsel döngüsü, görmek için tıkla açılır menüsü ya da bir web sayfasında dinamik olarak değişen öğe renkleri gördüğünüzde JavaScript efektlerini görmüş olursunuz.",
+                "lists": []
+            },
+            "right": {
+                "head": "Şimdi Örnek Bir JavaScript kodunu inceleyelim",
+                "youtubeLink": "https://www.youtube.com/embed/gndWkaTyo6g",
+                "altHead": "Şimdi de örnek bir JavaScript kodunu inceleyelim",
+                "code": [
+                    "  &lt;!DOCTYPE html&gt;",
+                    "&lt;html&gt;",
+                    "&lt;body&gt;",
+                    "&lt;h2&gt;My First JavaScript&lt:/h2&gt;",
+                    "&lt;button type='button' onclick='document.getElementById('demo').innerHTML = Date()'Click me to display Date and Time.'&lt;/button&gt;",
+                    "&lt;p id='demo'>&lt;/p&gt;",
+                    "&lt;/body&gt;",
+                    "&lt;/html&gt;"
+                ]
+            }
+        },
+        {
+            "frontend": 0,
+            "backend": 2,
+            "mobile": 1,
+            "fullstack": 1,
+            "gamer": 0,
+            "zero": 0,
+            "lang": "Java",
+            "head": "Java nedir?",
+            "left": {
+                "description": "Java, yüksek seviyeli, nesne tabanlı bir programlama dilidir. Java platformu, yazılım geliştirme için hem dilin kendisini hem de çalıştırma ortamını içerir. İşte Java'nın bazı özellikleri ve kullanım alanları:",
+                "lists": [
+                    "Platform Bağımsızlık: Java, 'write once, run anywhere' (bir kere yaz, her yerde çalıştır) prensibine dayanır. Java programları, Java Sanal Makinesi (Java Virtual Machine - JVM) üzerinde çalıştırılır ve bu sayede herhangi bir işletim sistemi üzerinde çalışabilir. Bu, Java'nın platform bağımsızlığını sağlayan önemli bir özelliktir.",
+                    "Nesne Tabanlı Programlama: Java, nesne tabanlı bir programlama dilidir. Nesne tabanlı programlama, verileri ve işlevleri birlikte gruplamak için nesneleri kullanır. Bu, daha modüler, esnek ve sürdürülebilir kod yazmanızı sağlar.",
+                    "Büyük Bir Standart Kütüphane: Java, zengin bir standart kütüphaneye sahiptir. Bu kütüphane, kullanıcı arabirimleri, ağ işlemleri, veri işleme, dosya işlemleri, çoklu iş parçacığı desteği ve daha pek çok işlevi içerir. Bu kütüphane, Java geliştiricilerine temel görevleri kolaylaştırır ve hızlı bir şekilde uygulama geliştirmelerine olanak tanır.",
+                    "Çoklu İş Parçacığı Desteği: Java, çoklu iş parçacığı programlamasını destekler. İş parçacığı, bir program içinde eş zamanlı olarak çalışabilen bağımsız bir iş birimidir. Java, iş parçacıkları arasında iletişim ve senkronizasyonu kolaylaştıran bir API sağlar. Bu, çoklu iş parçacığına dayalı paralel ve eş zamanlı programlama için Java'yı ideal hale getirir.",
+                    "Mobil Uygulama Geliştirme: Java, Android platformunda yaygın olarak kullanılan bir programlama dilidir. Android uygulamaları, Java dilini temel alır ve Java tabanlı Android SDK (Software Development Kit) kullanılarak geliştirilir.",
+                    "Web Uygulama Geliştirme: Java, güçlü bir web uygulama geliştirme platformuna sahiptir. Java Enterprise Edition (Java EE) teknolojileri, web tabanlı uygulamaların geliştirilmesi için birçok bileşeni içerir. Java EE, sunucu tarafı programlama, veritabanı erişimi, güvenlik, iş akışı yönetimi gibi işlevleri destekler."
+                ]
+            },
+            "right": {
+                "head": "Şimdi Örnek Bir Java kodunu inceleyelim",
+                "youtubeLink": "https://www.youtube.com/embed/VRSuyLg5yJU",
+                "altHead": "Şimdi de örnek bir Java kodunu inceleyelim",
+                "code": [
+                    "public class HelloWorld",
+                    "public static void main(String[] args) {",
+                    "System.out.println(''Hello, World!'');",
+                    " }",
+                    "}",
+                    "#çıktısı ==>",
+                    "Hello, World!"
+                ]
+            }
+        },
+        {
+            "frontend": 0,
+            "backend": 1,
+            "mobile": 0,
+            "fullstack": 1,
+            "gamer": 2,
+            "zero": 0,
+            "lang": "C++",
+            "head": "C++ nedir?",
+            "left": {
+                "description": "C++, genel amaçlı bir programlama dilidir ve birçok farklı uygulama alanında kullanılabilir. C++'ın temeli, C diline dayanır, ancak daha fazla özellik ve yetenek eklenmiştir. C++'ın bazı temel özellikleri şunlardır:",
+                "lists": [
+                    "Yüksek performans: C++'ın C'ye olan yakınlığı, düşük seviye programlama yetenekleri ve verimli bellek yönetimi gibi özellikler, yüksek performanslı uygulamalar geliştirmek için idealdir. Bu nedenle, oyun geliştirme, gömülü sistemler, sürücü yazılımları ve bilimsel hesaplamalar gibi performans gerektiren alanlarda yaygın olarak kullanılır.",
+                    "Nesne yönelimli programlama (OOP): C++ tam bir nesne yönelimli programlama dilidir. Nesneler ve sınıflar kullanarak veri ve işlevselliği birleştirmenize olanak tanır. Bu, kodun daha organize, sürdürülebilir ve yeniden kullanılabilir olmasını sağlar.",
+                    "Genel programlama: C++, genel amaçlı bir dil olarak kullanılabilir. Yazılım araçları, grafik kullanıcı arayüzleri (GUI), veritabanı bağlantıları, ağ programlaması ve daha fazlası gibi birçok alanda uygulama geliştirebilirsiniz.",
+                    "Sistem programlama: C++'ın C'ye olan yakınlığı, sistem düzeyinde programlama yapmak için uygun bir dil olmasını sağlar. İşletim sistemleri, sürücüler, cihazlar ve gömülü sistemler gibi alt seviye programlama gerektiren alanlarda kullanılır.",
+                    "Taşınabilirlik: C++, birçok platformda çalışabilir ve çeşitli işletim sistemleri üzerinde desteklenir. Bu da C++'ı çoklu platform desteği gerektiren projelerde kullanılmasını sağlar."
+                ]
+            },
+            "right": {
+                "head": "Şimdi Örnek Bir C++ kodunu inceleyelim",
+                "youtubeLink": "https://www.youtube.com/embed/Vc4CPd4Z_ns",
+                "altHead": "Şimdi de örnek bir C++ kodunu inceleyelim",
+                "code": [
+                    "#include <iostream>",
+                    "using namespace std;",
+                    " int main() {",
+                    "cout << ''Hello World!'';",
+                    "return 0;",
+                    "#çıktısı ==>",
+                    "Hello World!"
+                ]
+            }
+        },
+        {
+            "frontend": 2,
+            "backend": 0,
+            "mobile": 0,
+            "fullstack": 1,
+            "gamer": 0,
+            "zero": 0,
+            "lang": "HTML",
+            "head": "Herşeyden önce bazen yanlış anlaşıldığı gibi HTML bir programlama dili değildir. HTML bir mark-up (~işaretleme) dilidir, yani tag denen özel işaretlerle bir yazının tümünü ya da sadece bir kısmının görünümünü ve/veya işlevini değiştirmeye yarar. Örneğin herhangi bir tag olmadan default yazı tipinde görünen bir yazı, HTML içinde önüne ve arkasına <I> ve </I> işaretleri gelince bu şekilde italik görülür.",
+            "left": {
+                "description": " HTML tag'leri HTML tagleri bir çok farklı şekilde sınıflandırıalabilir. Bir sınıflandırma şu şekildedir: 1. Bir açma bir de kapama tag'inden oluşan container tag'leri, 2. Tek başına bulunan tag'ler.",
+                "lists": [
+                    
+                ]
+            },
+            "right": {
+                "head": "Şimdi Örnek Bir HTML kodunu inceleyelim",
+                "youtubeLink": "https://www.youtube.com/embed/CsRT-4sucig",
+                "altHead": "Şimdi de örnek bir HTML kodunu inceleyelim",
+                "code": [
+                    
+                    "  &lt;!DOCTYPE html&gt;",
+        "&lt;html&gt;",
+            "&lt;head&gt;",
+           "&lt;title&gt;Örnek Sayfa&lt;/title&gt;&lt;!-- Sayfanın başlığı bu kısımdan ayarlanır --&gt;",
+              "&lt;/head&gt;",
+            "&lt;body&gt;&lt;!-- Sayfa içerisinde değişiklik yapmak için burası kullanılır --&gt;",
+             "&lt;h1&gt;Merhaba, Dünya!&lt;/h1&gt;",
+             "&lt;p&gt;Bu bir örnek sayfadır.&lt;/p&gt;",
+            "&lt;/body&gt;",
+            "&lt;/html&gt;",
+            "Çıktısı ==>",
+            "<h1>Merhaba, Dünya!</h1>",
+            "<p>Bu bir örnek sayfadır.</p>"
+            
+                ]
+            }
+        },
+        {
+            "frontend": 0,
+            "backend": 0,
+            "mobile": 0,
+            "fullstack": 0,
+            "gamer": 0,
+            "zero": 0,
+            "lang": "Anket",
+            "head": "",
+            "left": {
+                "description": "Şimdi son olarak ilgini çeken dillerle alakalı küçük bir test yapacağız istediğin kadar seçebilirsin !",
+                "lists": [
+                    {
+                        "name": "frontend",
+                        "frontend": 3,
+                        "backend": 0,
+                        "fullstack": 0,
+                        "gamer": 0,
+                        "mobile": 0,
+                        "zero": 0,
+                        "item": "Bir site oluşturma fikri gerçekten hoşuma gitti"
+                    },
+                    {
+                        "name": "backend",
+                        "frontend": 0,
+                        "backend": 3,
+                        "fullstack": 0,
+                        "gamer": 0,
+                        "mobile": 0,
+                        "zero": 0,
+                        "item": "Görselden daha çok kodlara boğulup kodlarla uğraşmak daha çok hoşuma gitti"
+                    },
+                    {
+                        "name": "fullstack",
+                        "frontend": 0,
+                        "backend": 0,
+                        "fullstack": 3,
+                        "gamer": 0,
+                        "mobile": 0,
+                        "zero": 0,
+                        "item": "Daha derinlemesine işler yapmak Daha çok hoşuma giderdi"
+                    },
+                    {
+                        "name": "gamer",
+                        "frontend": 0,
+                        "backend": 0,
+                        "fullstack": 0,
+                        "gamer": 3,
+                        "mobile": 0,
+                        "zero": 0,
+                        "item": "Kodlarla uğraşırken oyun yapabilme fikri gayet ilgi çekici idi"
+                    },
+                    {
+                        "name": "mobile",
+                        "frontend": 0,
+                        "backend": 0,
+                        "fullstack": 0,
+                        "gamer": 0,
+                        "mobile": 3,
+                        "zero": 0,
+                        "item": "Mobil tabanlı bir uygulama tasarlamak çok ilgi çekici"
+                    },
+                    {
+                        "name": "mobile",
+                        "frontend": 0,
+                        "backend": 0,
+                        "fullstack": 0,
+                        "gamer": 0,
+                        "mobile": 0,
+                        "zero": 3,
+                        "item": "Genel olarak hiç biri ilgimi çekmedi"
+                    }
+                ]
+            },
+            "right": {
+                "head": "Şimdi Örnek Bir HTML kodunu inceleyelim",
+                "youtubeLink": "https://www.youtube.com/embed/CsRT-4sucig",
+                "altHead": "Şimdi de örnek bir HTML kodunu inceleyelim",
+                "code": [
+                    "<!DOCTYPE html>",
+                    "<html>",
+                    "<head>",
+                    " <title>Örnek Sayfa</title><!-- Sayfanın başlığı bu kısımdan ayarlanır -->",
+                    "</head>",
+                    "<body><!-- Sayfa içerisinde değişiklik yapmak için burası kullanılır -->",
+                    "<h1>Merhaba, Dünya!</h1>",
+                    " <!-- Kodun denemesinin Çalışması için ",
+                    " bu kısmı silip bir üst satırdaki örnek gibi h1 etiketi açıp içerisine kendi ",
+                    "örneğinizi yazınız! -->",
+                    "<p>Bu bir örnek sayfadır.</p>",
+                    "</body>",
+                    "</html>"
+                ]
+            }
+        }
+    ]
+}
